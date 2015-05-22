@@ -1,4 +1,4 @@
-package office;
+package com.office.logos.model;
 
 public class User {
 private String name;
